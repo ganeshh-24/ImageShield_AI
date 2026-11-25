@@ -1,0 +1,9 @@
+Flask
+opencv-python
+mediapipe
+numpy
+torch
+Pillow
+ImageHash
+reportlab
+transformers
