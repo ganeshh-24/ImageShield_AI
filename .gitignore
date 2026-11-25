@@ -221,3 +221,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.DS_Store
+.vscode/
+
+evidence_locker.db
+*.db
+private_uploads/
+static/reports/
+
+models/SDXL-Detector/*.safetensors
+models/SDXL-Detector/*.bin
+models/SDXL-Detector/cache/
